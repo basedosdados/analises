@@ -6,7 +6,7 @@ Repositório de códigos simples e replicáveis das análises publicadas.
 | Análise | Código | Link | Data de publicação | 
 | ------- | ------ | ---- | ------------------ |
 | Desmatamento nos municípios da Amazônia Legal | [arquivo](/arquivo) | https://twitter.com/basedosdados/status/1359243671351222281 | 2021-02-09 |
-
+| Evolução do funcionalismo público | `/br_vinculos_rais_20210212.R` | https://twitter.com/basedosdados/status/1359995324388044804 | 2021-02-12
 
 ## Como adicionar nova análise
 
