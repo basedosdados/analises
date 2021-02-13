@@ -5,8 +5,8 @@ Repositório de códigos simples e replicáveis das análises publicadas.
 
 | Análise | Código | Link | Data de publicação | 
 | ------- | ------ | ---- | ------------------ |
+| Evolução do funcionalismo público | `/br_vinculos_rais_20210212.R` | https://twitter.com/basedosdados/status/1359995324388044804 | 2021-02-12 |
 | Desmatamento nos municípios da Amazônia Legal | [br_municipios_desmatamento_20210209.sql](/br_municipios_desmatamento_20210209.sql) | https://twitter.com/basedosdados/status/1359243671351222281 | 2021-02-09 |
-
 
 ## Como adicionar nova análise
 
