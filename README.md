@@ -15,9 +15,9 @@ Repositório de códigos simples e replicáveis das análises publicadas.
 | 2021-04-02 | Top 10 Estados que mais exportaram e importaram no Brasil em 2020 | [br_me_comex_stat_20210329.sql](/br_me_comex_stat_20210329.sql) | https://twitter.com/basedosdados/status/1378060132987375621 |
 | 2021-04-03 | Indicadores Educacionais | [br_inep_indicadores_educacionais](/br_inep_indicadores_educacionais.sql) | https://twitter.com/basedosdados/status/1378451820050272256 |
 | 2021-04-13 | Gráficos variados da produção agrícola | [br_ibge_pam_20210413](/br_ibge_pam_20210413.ipynb) | - |
+| 2021-04-16 | Wordcloud da frequência dos nomes brasileiros | [br_nomes_frequentes_20210409](/br_nomes_frequentes_20210409.ipynb) | - |
 
 ## Como adicionar nova análise
 
 1. Subir o código direto na raiz do repo com a seguinte nomenclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` (ex: `br_municipios_desmatamento_20210209.sql`)
 2. Adicionar no README uma nova linha na tabela do Catálogo (em Código, colocar o `/<nome_do_arquivo>` para redirecionar)
-
