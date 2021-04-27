@@ -1,10 +1,10 @@
 # bibliotecas
 library(tidyverse)
-library(DBI)
-library(bigrquery)
 library(geobr)
 library(RColorBrewer)
 library(basedosdados)
+
+# MAPA DE SAO PAULO COM A NOTA MÉDIA DO ENSINO MÉDIO IDESP -------------------
 
 #mapa de são paulo
 mapa <- geobr::read_municipality("SP")%>%
@@ -40,8 +40,9 @@ scale_fill_manual(name = "Nota Média do IDESP",
                   values= brewer.pal(n = 5, name = "OrRd"),
                     na.value = "grey")
 
+#link do flourish : https://app.flourish.studio/visualisation/5973156/edit
 
-# 2 scatter de abandono e indice 
+# GRAFICO DE ABANDONO POR QUARTIL SOCIOECONOMICO
 
 setwd("/home/matheus/Documentos")
 base2 <- read_sql('SELECT fluxo.ano, fluxo.id_escola_sp, inse.nivel_socio_economico, fluxo.prop_abandono_em
@@ -56,19 +57,7 @@ WHERE fluxo.ano = 2019 and fluxo.id_municipio = 3550308',
   group_by(quartil)%>%
   summarise(media = mean(prop_abandono_em))
 
-base2 <- read_sql('SELECT fluxo.ano, fluxo.id_escola_sp, idesp.nota_idesp_ef_finais, fluxo.prop_abandono_em
-FROM `basedosdados-dev.br_sp_seduc_idesp.escola` as idesp
-INNER JOIN `basedosdados-dev.br_sp_seduc_fluxo_escolar.escola` as fluxo ON fluxo.id_escola_sp = idesp.id_escola_sp
-WHERE fluxo.ano = 2019 and fluxo.id_municipio = 3550308',
-                  "double-voice-305816")
-
-%>%
-  mutate(quartil = case_when(nivel_socio_economico < 3.3 ~ 'rico',
-                             nivel_socio_economico>= 3.3 & nivel_socio_economico < 4.35 ~ 'quasirico',
-                             nivel_socio_economico >= 4.35 & nivel_socio_economico < 5.1 ~ 'pobre',
-                             nivel_socio_economico >= 5.1 ~ 'muitopobre'))%>%
-  group_by(quartil)%>%
-  summarise(media = mean(nota_idesp_ef_finais))
+#link no flourish : https://app.flourish.studio/visualisation/5940169/edit
 
 
 rio::export(base2, "basetesteseduc.csv")
