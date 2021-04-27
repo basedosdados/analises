@@ -18,7 +18,7 @@ Repositório de códigos simples e replicáveis das análises publicadas.
 | 2021-04-16 | Wordcloud da frequência dos nomes brasileiros | [br_nomes_frequentes_20210409](/br_nomes_frequentes_20210409.ipynb) | - |
 | 2021-04-22 | Evolução do desmatamento na Amazônia Legal | [br_inpe_prodes_evolucao_desmatamento](/br_inpe_prodes_evolucao_desmatamento_20210422.sql) | https://twitter.com/basedosdados/status/1385321753891807237|
 | 2021-04-23 | Emissão de gases poluentes no Brasil | [br_seeg_emissoes](/br_seeg_emissoes_20210423.R) | https://twitter.com/basedosdados/status/1385696700262670339 |
-| 2021-04-23 | Gráficos e mapas da Secretaria de Educação de São Paulo | [br_sp_seduc](/br_sp_seduc_20210426.R) | - |
+| 2021-04-27 | Gráficos e mapas da Secretaria de Educação de São Paulo | [br_sp_seduc](/br_sp_seduc_20210426.R) | - |
 
 ## Como adicionar nova análise
 
