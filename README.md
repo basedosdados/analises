@@ -14,11 +14,12 @@ Repositório de códigos simples e replicáveis das análises publicadas.
 | 2021-03-30 | Inquéritos policias e casos de estupro em SP | [sp_criminalidade_20210325.R](/sp_criminalidade_20210325.R) | https://twitter.com/basedosdados/status/1377012243687223296 |
 | 2021-04-02 | Top 10 Estados que mais exportaram e importaram no Brasil em 2020 | [br_me_comex_stat_20210329.sql](/br_me_comex_stat_20210329.sql) | https://twitter.com/basedosdados/status/1378060132987375621 |
 | 2021-04-03 | Indicadores Educacionais | [br_inep_indicadores_educacionais](/br_inep_indicadores_educacionais.sql) | https://twitter.com/basedosdados/status/1378451820050272256 |
-| 2021-04-13 | Gráficos variados da produção agrícola | [br_ibge_pam_20210413](/br_ibge_pam_20210413.ipynb) | - |
-| 2021-04-16 | Wordcloud da frequência dos nomes brasileiros | [br_nomes_frequentes_20210409](/br_nomes_frequentes_20210409.ipynb) | - |
+| 2021-04-13 | Gráficos variados da produção agrícola | [br_ibge_pam_20210413](/br_ibge_pam_20210413.ipynb) | https://twitter.com/basedosdados/status/1382082697896542214 |
+| 2021-04-16 | Wordcloud da frequência dos nomes brasileiros | [br_nomes_frequentes_20210409](/br_nomes_frequentes_20210409.ipynb) | https://dev.to/basedosdados/base-dos-dados-python-101-44lc |
 | 2021-04-22 | Evolução do desmatamento na Amazônia Legal | [br_inpe_prodes_evolucao_desmatamento](/br_inpe_prodes_evolucao_desmatamento_20210422.sql) | https://twitter.com/basedosdados/status/1385321753891807237|
 | 2021-04-23 | Emissão de gases poluentes no Brasil | [br_seeg_emissoes](/br_seeg_emissoes_20210423.R) | https://twitter.com/basedosdados/status/1385696700262670339 |
-| 2021-04-27 | Gráficos e mapas da Secretaria de Educação de São Paulo | [br_sp_seduc](/br_sp_seduc_20210426.R) | - |
+| 2021-04-27 | Gráficos e mapas da Secretaria de Educação de São Paulo | [br_sp_seduc](/br_sp_seduc_20210426.R) | https://twitter.com/basedosdados/status/1387117822363455494 |
+| 2021-05-07 | Mapa da frequência dos nomes brasileiros | [br_nomes_frequentes_por_estado_20210412](/br_nomes_frequentes_por_estado_20210412/br_nomes_frequentes_por_estado_20210412.ipynb) | - |
 
 ## Como adicionar nova análise
 
