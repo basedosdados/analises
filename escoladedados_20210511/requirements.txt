@@ -1,0 +1,6 @@
+ipykernel
+matplotlib
+nbformat
+plotly
+statsmodels
+basedosdados
