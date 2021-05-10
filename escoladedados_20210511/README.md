@@ -11,5 +11,5 @@ No webinar, ela irá explorar o datalake público da Base dos Dados (BD) atravé
 
 ## Materiais
 
-- Apresentação completa: http://bit.ly/bd_escoladedados_20210511
-- Notebook com análises: [escoladedados_20210511.ipynb](/escoladedados_20210511.ipynb)
+- Apresentação completa: http://bit.ly/bd_webinar_escoladedados_20210511
+- Notebook com análises: [escoladedados_20210511.ipynb](escoladedados_20210511.ipynb)
