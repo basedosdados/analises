@@ -6,7 +6,13 @@ biblioteca Python da plataforma para análise de dados ambientais. A
 atividade será disponibilizada posteriormente no canal de YouTube da
 Escola de Dados e o link ficará disponível aqui.
 
-No webinar, ela irá explorar o datalake público da Base dos Dados (BD) através do pacote em Python da plataforma: como acessar e explorar os dados disponíveis no BD e construir uma análise com os dados das taxas anuais de desmatamento da Amazônia Legal calculadas pelo projeto PRODES (INPE) já tratados e disponibilizados na BD.
+No webinar, ela irá explorar o datalake público da Base dos Dados (BD)
+através do pacote em Python da plataforma: como acessar e explorar os
+dados disponíveis no BD e construir uma análise com os dados das taxas
+anuais de desmatamento da Amazônia Legal calculadas pelo projeto PRODES
+(INPE) já tratados e disponibilizados na BD.
+
+A Base dos Dados é uma iniciativa open source sem fins lucrativos que trabalha com a missão de universalizar o acesso a dados de qualidade no Brasil. Nos ajude a manter o projeto para facilitar cada vez mais a análise, pesquisa e produção de evidências: https://apoia.se/basedosdados
 
 
 ## Materiais
