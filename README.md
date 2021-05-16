@@ -7,21 +7,26 @@ produzido. Abaixo você pode acessar todo o catálogo de análises
 produzidas por veículo:
 
 - [Workshops](#workshops-)
-- [Artigos](#artigos-)
+- [Artigos e tutoriais](#artigos-e-tutoriais-)
 - [Redes sociais](#gráficos-nas-redes-sociais-)
+
+> 💭 Tem alguma ideia ou um exemplo seu para colaborar? Abra um issue e fale com a gente!
 
 
 ## [Workshops](/workshops) 👩🏻‍💻
 
 | Data de publicação | Análise | Código | Link  | 
 | ------- | ------ | ---- | ------------------ |
+| 2021-03-06 | Open Data Day 2021: 1º Datathon da BD | [bd_odd_2021.ipynb](/workshops/bd_odd_2021.ipynb) | https://basedosdados.github.io/mais/datathon_2021/ |
 | 2021-03-20 | Workshop DOU: Tabela de nomeações e exonerações do governo federal | [br_dou_nomeacoes_exoneracoes_20210320.sql](/workshops/br_dou_nomeacoes_exoneracoes_20210320.sql) | <https://youtu.be/5gbhj-8PWLg> |
 | 2021-03-20 | Workshop DOU: Número de MPs e Decretos por mês e menções a cloroquina no DOU | [br_dou_exemplos_20210320.ipynb](/workshops/br_dou_exemplos_20210320.ipynb) | <https://youtu.be/5gbhj-8PWLg> |
+| 2021-05-15 | Workshop: Aprenda a acessar nosso datalake público em R | [bd_workshop_r_20210515](/workshops/bd_workshop_r_20210515) | https://youtu.be/M9ayiseIjvI
 
-## [Artigos](/artigos) 📰
+## [Artigos e tutoriais](/artigos) 📰
 
 | Data de publicação | Análise | Código | Link  | 
 | ------- | ------ | ---- | ------------------ |
+| - | BD for begginers: A Python tutoral | [bd_for_beginners.ipynb](/artigos/bd_for_beginners.ipynb) | - |
 | 2021-04-16 | Tutorial Python 101: Wordcloud da frequência dos nomes brasileiros | [br_nomes_frequentes_20210409](/artigos/br_nomes_frequentes_20210409.ipynb) | https://dev.to/basedosdados/base-dos-dados-python-101-44lc |
 | 2021-05-07 | Tutorial Python 102: Mapa da frequência dos nomes brasileiros | [br_nomes_frequentes_por_estado_20210412](/artigos/br_nomes_frequentes_por_estado_20210412/br_nomes_frequentes_por_estado_20210412.ipynb) | https://dev.to/basedosdados/base-dos-dados-python-102-50k0 |
 | 2021-05-08 | Tutorial R: Como usar a biblioteca basedosdados no R - capítulo 1 | - | https://dev.to/basedosdados/como-usar-a-biblioteca-basedosdados-no-r-capitulo-1-46kb
@@ -46,5 +51,12 @@ produzidas por veículo:
 
 ## Como adicionar nova análise
 
-1. Subir o código na pasta correspondente do repo com a seguinte nomenclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` (ex: `br_municipios_desmatamento_20210209.sql`)
-2. Adicionar no README uma nova linha na tabela do Catálogo - em Código, colocar o `[<nome_do_arquivo>](/<pasta>/<nome_do_arquivo>)` para redirecionar.
+1. Subir o código na pasta correspondente do repo com a seguinte
+   nomenclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` 
+
+> ex: `br_municipios_desmatamento_20210209.sql`
+
+2. Adicionar no README uma nova linha ao final da tabela correspondente do catálogo - na coluna "Código", colocar
+   `[<nome_do_arquivo>](/<pasta>/<nome_do_arquivo>)` para redirecionar.
+
+> ex: `[br_municipios_desmatamento_20210209.sql](/redes_sociais/br_municipios_desmatamento_20210209.sql])`
