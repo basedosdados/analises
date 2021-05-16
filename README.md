@@ -1,6 +1,15 @@
 # Análises BD+
 Repositório de códigos simples e replicáveis das análises publicadas.
 
+Os códigos se apresentam nas respectivas pastas do tipo de conteúdo
+produzido. Abaixo você pode acessar todo o catálogo de análises
+produzidas por veículo:
+
+- [Workshops](#workshops-)
+- [Artigos](#artigos-)
+- [Redes sociais](#gráficos-nas-redes-sociais-)
+
+
 ## [Workshops](/workshops) 👩🏻‍💻
 
 | Data de publicação | Análise | Código | Link  | 
