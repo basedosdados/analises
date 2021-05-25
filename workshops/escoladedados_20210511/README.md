@@ -1,10 +1,10 @@
 # Como usar o pacote `basedosdados` em Python para análise de dados públicos
 
+**Webinar (Youtube): https://youtu.be/_UVsvWfh8uc**
+
 Neste webinar, transmitido ao vivo aos participantes do programa de membresia
 e do curso Jornalismo de Dados Ambientais da Escola de Dados, [Fernanda Scovino](http://github.com/fernandascovino), da Base dos Dados, mostra as possibilidades de utilização da
-biblioteca Python da plataforma para análise de dados ambientais. A
-atividade será disponibilizada posteriormente no canal de YouTube da
-Escola de Dados e o link ficará disponível aqui.
+biblioteca Python da plataforma para análise de dados ambientais.
 
 No webinar, ela irá explorar o datalake público da Base dos Dados (BD)
 através do pacote em Python da plataforma: como acessar e explorar os
