@@ -17,6 +17,7 @@ produzidas por veículo:
 
 | Data de publicação | Análise | Código | Link  | 
 | ------- | ------ | ---- | ------------------ |
+| 2021-01-10 | Workshop SQL + BigQuery | [br_me_rais_microdados_vinculos_20210526.sql](/workshops/br_me_rais_microdados_vinculos_20210526.sql) | https://www.youtube.com/watch?v=nGM2OwTUY_M |
 | 2021-03-06 | Open Data Day 2021: 1º Datathon da BD | [bd_odd_2021.ipynb](/workshops/bd_odd_2021.ipynb) | https://basedosdados.github.io/mais/datathon_2021/ |
 | 2021-03-20 | Workshop DOU: Tabela de nomeações e exonerações do governo federal | [br_dou_nomeacoes_exoneracoes_20210320.sql](/workshops/br_dou_nomeacoes_exoneracoes_20210320.sql) | <https://youtu.be/5gbhj-8PWLg> |
 | 2021-03-20 | Workshop DOU: Número de MPs e Decretos por mês e menções a cloroquina no DOU | [br_dou_exemplos_20210320.ipynb](/workshops/br_dou_exemplos_20210320.ipynb) | <https://youtu.be/5gbhj-8PWLg> |
@@ -31,7 +32,7 @@ produzidas por veículo:
 | 2021-05-07 | Tutorial Python 102: Mapa da frequência dos nomes brasileiros | [br_nomes_frequentes_por_estado_20210412](/artigos/br_nomes_frequentes_por_estado_20210412/br_nomes_frequentes_por_estado_20210412.ipynb) | https://dev.to/basedosdados/base-dos-dados-python-102-50k0 |
 | 2021-05-08 | Tutorial R: Como usar a biblioteca basedosdados no R - capítulo 1 | - | https://dev.to/basedosdados/como-usar-a-biblioteca-basedosdados-no-r-capitulo-1-46kb
 | 2021-05-08 | (Nexo Jornal) Ensaio: A covid-19 acabou com o ‘efeito mandante’ no Brasileirão | - | https://www.nexojornal.com.br/ensaio/2021/A-covid-19-acabou-com-o-%E2%80%98efeito-mandante%E2%80%99-no-Brasileir%C3%A3o
-| 2021-05-26 | Tutorial BigQuery 101 | [br_me_rais_microdados_vinculos_20210526.sql](/artigos/br_me_rais_microdados_vinculos_20210526.sql)| https://dev.to/basedosdados/bigquery-101-45pk |
+| 2021-05-26 | Tutorial BigQuery 101 | [br_me_rais_microdados_vinculos_20210526.sql](/workshops/br_me_rais_microdados_vinculos_20210526.sql)| https://dev.to/basedosdados/bigquery-101-45pk |
 
 ## [Gráficos nas redes sociais](/redes_sociais) 📊
 
