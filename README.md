@@ -6,9 +6,11 @@ Os códigos se apresentam nas respectivas pastas do tipo de conteúdo
 produzido. Abaixo você pode acessar todo o catálogo de análises
 produzidas por veículo:
 
-- [Workshops](#workshops-)
-- [Artigos e tutoriais](#artigos-e-tutoriais-)
-- [Redes sociais](#gráficos-nas-redes-sociais-)
+- [Análises BD+](#análises-bd)
+  - [Workshops 👩🏻‍💻](#workshops-)
+  - [Artigos e tutoriais 📰](#artigos-e-tutoriais-)
+  - [Gráficos nas redes sociais 📊](#gráficos-nas-redes-sociais-)
+  - [Como adicionar nova análise](#como-adicionar-nova-análise)
 
 > 💭 Tem alguma ideia ou um exemplo seu para colaborar? Abra um issue e fale com a gente!
 
@@ -49,7 +51,8 @@ produzidas por veículo:
 | 2021-04-22 | Evolução do desmatamento na Amazônia Legal | [br_inpe_prodes_evolucao_desmatamento](/redes_sociais/br_inpe_prodes_evolucao_desmatamento_20210422.sql) | https://twitter.com/basedosdados/status/1385321753891807237|
 | 2021-04-23 | Emissão de gases poluentes no Brasil | [br_seeg_emissoes](/redes_sociais/br_seeg_emissoes_20210423.R) | https://twitter.com/basedosdados/status/1385696700262670339 |
 | 2021-04-27 | Gráficos e mapas da Secretaria de Educação de São Paulo | [br_sp_seduc](/redes_sociais/br_sp_seduc_20210426.R) | https://twitter.com/basedosdados/status/1387117822363455494 |
-
+| 2021-05-01 | Perfil salarial e de contratações | [br_me_caged](/redes_sociais/br_me_caged_20210501.ipynb) | https://twitter.com/basedosdados/status/1388538485968183297 |
+| 2021-06-03 | Perfil racial por rede de ensino  | [br_inep_censo_escolar](/redes_sociais/br_inep_censo_escolar_20210603.ipynb) | https://twitter.com/basedosdados/status/1400481133314334721 |
 
 ## Como adicionar nova análise
 
