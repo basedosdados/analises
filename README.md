@@ -53,6 +53,7 @@ produzidas por veículo:
 | 2021-04-27 | Gráficos e mapas da Secretaria de Educação de São Paulo | [br_sp_seduc](/redes_sociais/br_sp_seduc_20210426.R) | https://twitter.com/basedosdados/status/1387117822363455494 |
 | 2021-05-01 | Perfil salarial e de contratações | [br_me_caged](/redes_sociais/br_me_caged_20210501.ipynb) | https://twitter.com/basedosdados/status/1388538485968183297 |
 | 2021-06-03 | Perfil racial por rede de ensino  | [br_inep_censo_escolar](/redes_sociais/br_inep_censo_escolar_20210603.ipynb) | https://twitter.com/basedosdados/status/1400481133314334721 |
+| 2021-10-13 | Desligamento por morte  | [br_me_caged](/redes_sociais/br_me_caged_20211013.sql) |  |
 
 ## Como adicionar nova análise
 
