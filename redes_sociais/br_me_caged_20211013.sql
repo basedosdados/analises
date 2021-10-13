@@ -91,7 +91,7 @@ WITH
 	)
 
 SELECT
-	*
+  *
 FROM (SELECT * FROM desligamento_morte_geral) 
   PIVOT(
     SUM(desligamento_morte_100k) 
