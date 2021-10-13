@@ -88,7 +88,7 @@ WITH
       REPLACE(regiao,'-','_') AS regiao,
       100000 * SAFE_DIVIDE(desligamento_morte,populacao) AS desligamento_morte_100k
     FROM desligamento_morte_regiao 
-	)
+  )
 
 SELECT
   *
