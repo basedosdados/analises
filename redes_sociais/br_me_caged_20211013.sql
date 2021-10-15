@@ -4,7 +4,7 @@ WITH
       t1.ano,
       t1.mes,
       t2.regiao,
-      COUNT(t1.admitidos_desligados) AS desligamento_morte,
+      COUNT(t1.saldo_movimentacao) AS desligamento_morte,
     FROM`basedosdados.br_me_caged.microdados_antigos` t1
     JOIN`basedosdados-dev.br_bd_diretorios_brasil.uf` t2
       ON  t1.sigla_uf = t2.sigla
