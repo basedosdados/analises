@@ -13,9 +13,9 @@ query = """
 WITH sub as (SELECT p.produto, 
             ip.indice as indice_atual
             FROM basedosdados.br_anp_precos_combustiveis.microdados p
-            LEFT JOIN basedosdados.br_ibge_inflacao.ipca ip 
+            LEFT JOIN basedosdados.br_ibge_ipca.mes_brasil ip 
             ON p.ano=ip.ano AND EXTRACT(MONTH FROM p.data_coleta)=ip.mes 
-            WHERE p.ano = 2021 and EXTRACT(MONTH FROM p.data_coleta) = 7
+            WHERE p.ano = 2021 and EXTRACT(MONTH FROM p.data_coleta) = 9
             GROUP BY 1,2)
 SELECT p.ano, 
       EXTRACT(MONTH from p.data_coleta) AS mes, 
@@ -23,7 +23,7 @@ SELECT p.ano,
       ROUND(AVG(p.preco_venda),3) AS preco_medio,
       ROUND((AVG(sub.indice_atual)/AVG(ip.indice))*AVG(p.preco_venda),3) AS preco_corrigido,
 FROM basedosdados.br_anp_precos_combustiveis.microdados p
-LEFT JOIN basedosdados.br_ibge_inflacao.ipca ip  on p.ano=ip.ano and EXTRACT(MONTH from p.data_coleta)=ip.mes 
+LEFT JOIN basedosdados.br_ibge_ipca.mes_brasil ip  on p.ano=ip.ano and EXTRACT(MONTH from p.data_coleta)=ip.mes 
 INNER JOIN sub ON p.produto=sub.produto 
 WHERE ip.mes is not null 
 GROUP BY 1,2,3
