@@ -54,7 +54,7 @@ produzidas por veículo:
 | 2021-05-01 | Perfil salarial e de contratações | [br_me_caged](/redes_sociais/br_me_caged_20210501.ipynb) | https://twitter.com/basedosdados/status/1388538485968183297 |
 | 2021-06-03 | Perfil racial por rede de ensino  | [br_inep_censo_escolar](/redes_sociais/br_inep_censo_escolar_20210603.ipynb) | https://twitter.com/basedosdados/status/1400481133314334721 |
 | 2021-10-13 | Desligamento por morte  | [br_me_caged](/redes_sociais/br_me_caged_20211013.sql) | https://twitter.com/basedosdados/status/1448317810984239108 |
-| 2021-10-27 | Saldo orçamentário dos municípios baianos em 2020  | [br_me_siconfi](/redes_sociais/br_me_siconfi_2021027.sql) | https://twitter.com/basedosdados/status/1453388477463138312 |
+| 2021-10-27 | Saldo orçamentário dos municípios baianos em 2020  | [br_me_siconfi](/redes_sociais/br_me_siconfi_2021027.R) | https://twitter.com/basedosdados/status/1453388477463138312 |
 
 ## Como adicionar nova análise
 
