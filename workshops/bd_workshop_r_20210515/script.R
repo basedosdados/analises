@@ -1,4 +1,3 @@
-
 library(bit64)
 library(tidyverse)
 library(basedosdados)
@@ -28,8 +27,8 @@ download(
   query = c(
     "SELECT * FROM `basedosdados.br_inep_ideb.escola`",
     "SELECT ana.id_municipio, ana.indice_sem_atend
-     FROM `basedosdados.br_ana_atlas_esgotos.municipios` as ana",
-    "SELECT * FROM `basedosdados.br_ibge_pib.municipios`")) %>%
+     FROM `basedosdados.br_ana_atlas_esgotos.municipio` as ana",
+    "SELECT * FROM `basedosdados.br_ibge_pib.municipio`")) %>%
   mutate(resultados = map(query, read_sql, page_size = 100000)) ->
   queries)
 
