@@ -58,6 +58,7 @@ produzidas por veículo:
 | 2021-10-27 | Saldo orçamentário dos municípios baianos em 2020  | [br_me_siconfi](/redes_sociais/br_me_siconfi_2021027.R) | https://twitter.com/basedosdados/status/1453388477463138312 | 
 | 2021-11-10 | Alfabetização nas escolas em 2016 | [br_inep_ana](/redes_sociais/br_inep_ana_20211105.ipynb) | https://twitter.com/basedosdados/status/1458457448738664450 |
 | 2022-01-12 | Consumo de energia elétrica residencial | [br_mme_consumo_energia_eletrica](/redes_sociais/br_mme_consumo_energia_eletrica_20220112.sql) | https://twitter.com/basedosdados/status/1481287244367470593 |
+| 2022-05-12 | Evolução do PIB *per capita* real na América do Sul | [nl_ug_pwt_pib](/redes_sociais/nl_ug_pwt_pib_20220512.sql) | https://twitter.com/basedosdados/status/1524786834793971712 |
 
 ## Como adicionar nova análise
 
