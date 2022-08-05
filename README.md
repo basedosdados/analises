@@ -60,6 +60,7 @@ produzidas por veículo:
 | 2022-01-12 | Consumo de energia elétrica residencial | [br_mme_consumo_energia_eletrica](/redes_sociais/br_mme_consumo_energia_eletrica_20220112.sql) | https://twitter.com/basedosdados/status/1481287244367470593 |
 | 2022-05-12 | Evolução do PIB *per capita* real na América do Sul | [nl_ug_pwt_pib](/redes_sociais/nl_ug_pwt_pib_20220512.sql) | https://twitter.com/basedosdados/status/1524786834793971712 |
 | 2022-06-02 | Proporção de Gado por pessoa no Mato Grosso em 2017 | [br_ibge_censo_agropecuario](/redes_sociais/br_ibge_censo_agropecuario_20220602.R) | https://twitter.com/basedosdados/status/1532378630315180034?s=20&t=LeTxOKVptbC5r9kqXu8Ewg |
+| 2022-07-22 | Proficiência média por escolas no Ceará | [br_inep_saeb](/redes_sociais/br_inep_saeb_20220712.ipynb) | https://twitter.com/basedosdados/status/1547256397355687937?s=20&t=Ab0CGhSGoCQgBEo-mli18Q |
 
 
 ## Como adicionar nova análise
