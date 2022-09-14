@@ -61,7 +61,7 @@ produzidas por veículo:
 | 2022-05-12 | Evolução do PIB *per capita* real na América do Sul | [nl_ug_pwt_pib](/redes_sociais/nl_ug_pwt_pib_20220512.sql) | https://twitter.com/basedosdados/status/1524786834793971712 |
 | 2022-06-02 | Proporção de Gado por pessoa no Mato Grosso em 2017 | [br_ibge_censo_agropecuario](/redes_sociais/br_ibge_censo_agropecuario_20220602.R) | https://twitter.com/basedosdados/status/1532378630315180034?s=20&t=LeTxOKVptbC5r9kqXu8Ewg |
 | 2022-07-22 | Proficiência média por escolas no Ceará | [br_inep_saeb](/redes_sociais/br_inep_saeb_20220712.ipynb) | https://twitter.com/basedosdados/status/1547256397355687937?s=20&t=Ab0CGhSGoCQgBEo-mli18Q |
-
+| 2022-09-14 | O perfil racial dos candidatos das Eleições 2022 representa a população brasileira? | [br_tse_eleicoes](/redes_sociais/br_tse_eleicoes_20220912.R) | https://twitter.com/basedosdados/status/1570083443077435393?s=20&t=qoqiJfcnwIWynxZ_YY0cZQ |
 
 ## Como adicionar nova análise
 
