@@ -36,5 +36,3 @@ ggplot(df) +
   scale_fill_distiller(palette = "Greens", limits=c(0.668, 1), direction = 1)+
   labs(fill = "Valor") +
   theme_classic()
-
- 
