@@ -63,6 +63,7 @@ produzidas por veículo:
 | 2022-07-22 | Proficiência média por escolas no Ceará | [br_inep_saeb](/redes_sociais/br_inep_saeb_20220712.ipynb) | https://twitter.com/basedosdados/status/1547256397355687937?s=20&t=Ab0CGhSGoCQgBEo-mli18Q |
 | 2022-09-14 | O perfil racial dos candidatos das Eleições 2022 representa a população brasileira? | [br_tse_eleicoes](/redes_sociais/br_tse_eleicoes_20220912.R) | https://twitter.com/basedosdados/status/1570083443077435393?s=20&t=qoqiJfcnwIWynxZ_YY0cZQ |
 | 2022-09-28 | Proporção de Deputadas Federais Eleitas/Que Dado é esse? | [br_tse_eleicoes](/redes_sociais/br_tse_eleicoes_20220929.R) | https://twitter.com/basedosdados/status/1575153595875577859 |
+| 2022-09-30 | Cobertura da Atenção Psicossocial | [br_ms_cnes](/redes_sociais/br_ms_cnes_20220929.R) | https://twitter.com/basedosdados/status/1575951698748575744 |
 
 ## Como adicionar nova análise
 
