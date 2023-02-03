@@ -63,7 +63,14 @@ produzidas por veículo:
 | 2022-07-22 | Proficiência média por escolas no Ceará | [br_inep_saeb](/redes_sociais/br_inep_saeb_20220712.ipynb) | https://twitter.com/basedosdados/status/1547256397355687937?s=20&t=Ab0CGhSGoCQgBEo-mli18Q |
 | 2022-09-14 | O perfil racial dos candidatos das Eleições 2022 representa a população brasileira? | [br_tse_eleicoes](/redes_sociais/br_tse_eleicoes_20220912.R) | https://twitter.com/basedosdados/status/1570083443077435393?s=20&t=qoqiJfcnwIWynxZ_YY0cZQ |
 | 2022-09-28 | Proporção de Deputadas Federais Eleitas/Que Dado é esse? | [br_tse_eleicoes](/redes_sociais/br_tse_eleicoes_20220929.R) | https://twitter.com/basedosdados/status/1575153595875577859 |
-| 2022-09-30 | Cobertura da Atenção Psicossocial | [br_ms_cnes](/redes_sociais/br_ms_cnes_20220929.R) | https://twitter.com/basedosdados/status/1575951698748575744 |
+| 2022-09-30 | Cobertura da Atenção Psicossocial | [br_ms_cnes](/redes_sociais/br_ms_cnes_20220930.R) | https://twitter.com/basedosdados/status/1575951698748575744 |
+| 2022-11-24 | Estreia do Brasil nas Copas | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221130.ipynb) | https://twitter.com/basedosdados/status/1595814293790154752 |
+| 2022-11-28 | Desempenho do Brasil: fase de grupos | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221128.sql) | https://twitter.com/basedosdados/status/1597238669542592514 |
+| 2022-12-02 | Goleadas históricas: Brasil | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221202_2.sql) | https://twitter.com/basedosdados/status/1598695954865061888 |
+| 2022-12-02 | Goleadas históricas: Mundo | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221202_1.sql) | https://twitter.com/basedosdados/status/1598695954865061888 |
+| 2022-12-05 | Desempenho do Brasil: oitavas de final | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221205.sql) | https://twitter.com/basedosdados/status/1599805032114683906 |
+| 2022-12-09 | Idade dos Jogadores da Copa do Mundo | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221209.ipynb) | https://twitter.com/basedosdados/status/1601220269091487745 |
+| 2022-12-13 | Croácia x Argentina | [world_fifa_worldcup](/redes_sociais/world_fifa_wordcup_20221213.ipynb) | https://twitter.com/basedosdados/status/1602725358293467138 |
 
 ## Como adicionar nova análise
 
