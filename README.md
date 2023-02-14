@@ -71,7 +71,8 @@ produzidas por veículo:
 | 2022-12-05 | Desempenho do Brasil: oitavas de final | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221205.sql) | https://twitter.com/basedosdados/status/1599805032114683906 |
 | 2022-12-09 | Idade dos Jogadores da Copa do Mundo | [world_fifa_worldcup](/redes_sociais/world_fifa_worldcup_20221209.ipynb) | https://twitter.com/basedosdados/status/1601220269091487745 |
 | 2022-12-13 | Croácia x Argentina | [world_fifa_worldcup](/redes_sociais/world_fifa_wordcup_20221213.ipynb) | https://twitter.com/basedosdados/status/1602725358293467138 |
-| 2023-02-03 | Análise de Vulnerabilidade Social | [br_ipea_avs](/redes_sociais/br_ipea_avs_vulnerabilidade_social_20230203.ipynb) | - |
+| 2023-02-03 | Análise de Vulnerabilidade Social | [br_ipea_avs](/redes_sociais/br_ipea_avs_vulnerabilidade_social_20230203.ipynb) | https://twitter.com/basedosdados/status/1621579296551608322 |
+
 
 ## Como adicionar nova análise
 
