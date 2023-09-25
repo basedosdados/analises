@@ -74,7 +74,7 @@ produzidas por veículo:
 | 2023-02-03 | Análise de Vulnerabilidade Social | [br_ipea_avs](/redes_sociais/br_ipea_avs_vulnerabilidade_social_20230203.ipynb) | https://twitter.com/basedosdados/status/1621579296551608322 |
 | 2023-02-06 |  Nova composição da Câmara e do Senado | [br_tse_eleicoes](/redes_sociais/br_tse_eleicoes_20230106.R) | https://twitter.com/basedosdados/status/1622643073426522117 |
 | 2023-02-15 | Emissão Gases de Efeito Estufa | [world_bm_wdi](/redes_sociais/world_bm_wdi_20230215.ipynb) | - |
-| 2023-09-25 | Emissão Gases de Efeito Estufa | [mundo_transfermarkt_competicoes](/redes_sociais/mundo_transfermarkt_competicoes_brasileirao_copa_brasil_20230925.sql) | - |
+| 2023-09-25 | Copa do Brasil | [mundo_transfermarkt_competicoes](/redes_sociais/mundo_transfermarkt_competicoes_brasileirao_copa_brasil_20230925.sql) | - |
 
 
 ## Como adicionar nova análise
