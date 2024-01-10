@@ -7,9 +7,10 @@ Veja abaixo como começar a contribuir 👇
 ## Como adicionar nova análise
 
 1. Abra a pasta "Comunidade" e clique em add file
-2. Suba o código que você quer compartilhar usando a seguinte nomeclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` 
+2. Suba o código que você quer compartilhar usando a seguinte nomeclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` ou `<nome.da.tabela>_<data>.[linguagem]`
 
 > ex: `br_municipios_desmatamento_20210209.sql`
+
 3. Clique em em "Commit Changes"
 4. Na janela que vai aparecer, clique em "Propose Changes"
 5. Clique em "Create Pull Request"
