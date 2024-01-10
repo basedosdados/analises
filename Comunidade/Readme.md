@@ -6,12 +6,13 @@ Veja abaixo como começar a contribuir 👇
 
 ## Como adicionar nova análise
 
-1. Subir o código na pasta correspondente do repo com a seguinte
-   nomenclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` 
+1. Abra a pasta "Comunidade" e clique em add file
+2. Suba o código que você quer compartilhar usando a seguinte nomeclatura: `<abrangencia>_<tema>_<AAAAMMDD>.[sql|py|...]` 
 
 > ex: `br_municipios_desmatamento_20210209.sql`
-
-2. Adicionar no README uma nova linha ao final da tabela correspondente do catálogo - na coluna "Código", colocar
-   `[<nome_do_arquivo>](/<pasta>/<nome_do_arquivo>)` para redirecionar.
-
-> ex: `[br_municipios_desmatamento_20210209.sql](/redes_sociais/br_municipios_desmatamento_20210209.sql])`
+3. Clique em em "Commit Changes"
+4. Na janela que vai aparecer, clique em "Propose Changes"
+5. Clique em "Create Pull Request"
+6. Adicione uma breve descrição do seu código ou análise no campo "Add a description"
+7. Clique em "Create Pull Request"
+8. Pronto! Sua análise e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicado 💚
