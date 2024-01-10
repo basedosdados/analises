@@ -1,4 +1,4 @@
-#**Seja bem-vindo(a) ao nosso espaço comunitário de compartilhamento de códigos de análises! **
+**Seja bem-vindo(a) ao nosso espaço comunitário de compartilhamento de códigos de análises!**
 
 Aqui você vai encontrar códigos e análises de toda a comunidade para que você copie, adapte e use em seu próprio projeto. 
 
