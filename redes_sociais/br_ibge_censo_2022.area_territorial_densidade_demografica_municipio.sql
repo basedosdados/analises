@@ -1,3 +1,4 @@
+## Consultas criadas para divulgar os dados do Censo 2022 na Base dos Dados! Confira o conteúdo por aqui: https://x.com/basedosdados/status/1749842569792528728?s=20
 
 ## Qual o Município com menor população no Brasil?
 SELECT
