@@ -1,4 +1,4 @@
-# Análises BD+
+# Análises BD
 Repositório de códigos simples e replicáveis das análises publicadas da
 [Base dos Dados](https://linktree.com.br/new/basedosdados).
 
@@ -9,7 +9,7 @@ produzidas por veículo:
 - [Análises BD+](#análises-bd)
   - [Workshops 👩🏻‍💻](#workshops-)
   - [Artigos e tutoriais 📰](#artigos-e-tutoriais-)
-  - [Gráficos nas redes sociais 📊](#gráficos-nas-redes-sociais-)
+  - [Análises nas redes sociais e bdletter 📊](#gráficos-nas-redes-sociais-)
   - [Como adicionar nova análise](#como-adicionar-nova-análise)
 
 > 💭 Tem alguma ideia ou um exemplo seu para colaborar? Abra um issue e fale com a gente!
