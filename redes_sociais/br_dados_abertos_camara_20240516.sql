@@ -21,6 +21,6 @@ valor_liquido,
 nome_passageiro,
 valor_restituicao
 FROM `basedosdados.br_camara_dados_abertos.despesa` 
-WHERE nome_parlamentar = "Pedro Lucas Fernandes"
+WHERE nome_parlamentar = "Nome da(o) Deputada(o)"
 AND ano_legislatura = 2023 #soma das despesas desde o início da atual legislatura até agora
 ORDER BY data_emissao ASC;
