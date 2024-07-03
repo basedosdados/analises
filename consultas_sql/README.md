@@ -19,7 +19,6 @@ Criou um recorte interessante? Não deixe de compartilhar aqui também e contrib
 7. Clique em "Create Pull Request"
 8. Pronto! Sua consulta e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicada 💚
 
-
 ## Consultas 🔎
 
 Aqui você consultas SQL em nosso datalake público
@@ -42,4 +41,7 @@ Aqui você consultas SQL em nosso datalake público
 | O valor da produção da extração vegetal cresceu no Brasil nas últimas três décadas?  | [br_ibge_pevs.producao_extracao_vegetal.sql](/consultas_sql/br_ibge_pevs.producao_extracao_vegetal.sql) |
 | Quantos focos de queimadas houveram em seu municipio teve ao longo do tempo?   | [br_inpe_queimadas.microdados_20231113.sql](/consultas_sql/br_inpe_queimadas.microdados_20231113.sql) |
 | Quantos MWh seu estado consumiu de energia de 2004 a 2021?   | [br_mme_consumo_energia_eletrica_uf_20230801.sql](/consultas_sql/br_mme_consumo_energia_eletrica_uf_20230801.sql) |
+
+=======
+8. Pronto! Sua consulta e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicada 💚
 
