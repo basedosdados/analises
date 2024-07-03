@@ -18,3 +18,15 @@ Criou um recorte interessante? Não deixe de compartilhar aqui também e contrib
 6. Adicione uma breve descrição do seu código ou análise no campo "Add a description"
 7. Clique em "Create Pull Request"
 8. Pronto! Sua consulta e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicada 💚
+
+
+## Consultas 🔎
+
+Aqui você consultas SQL em nosso datalake público
+
+| Pergunta | Consulta | 
+| ------- | ------ |
+| Tivemos mais contratos contratos pré ou pós-pagos de telefonia móvel no Brasil em 2023? | [consultas_sql/br_anatel_telefonia_movel.microdados.sql](/consultas_sql/br_anatel_telefonia_movel.microdados.sql) |
+| Quais empresas tiveram mais contratos de telefonía móvel no Brasil em 2023? | [consultas_sql/br_anatel_telefonia_movel.microdados.sql](/consultas_sql/br_anatel_telefonia_movel.microdados.sql) |
+| Qual tipo de sinal foi predominante nos contratos de telefonia móvel no Brasil em 2023?  | [consultas_sql/br_anatel_telefonia_movel.microdados.sql](/consultas_sql/br_anatel_telefonia_movel.microdados.sql) |
+| Qual oPIB das capitais do pa�s em 2018  | [br_capitais_ideb_pib_20210303.sql](consultas_sql/br_capitais_ideb_pib_20210303.sql) |
