@@ -1,6 +1,6 @@
 Este é nosso repositório de consultas SQL para facilitar e poupar tempo da sua análise com os dados da BD. Por aqui você encontra consultas SQL criadas para acessar recortes específicos nos dados do nosso datalake público. 
 
-No nome de cada arquivo você encontra o conjunto e a tabela utilizadas na consulta SQL. 
+⬇️ Consulte a tabela de perguntas abaixo para navegar pelas consultas da pasta
 
 Criou um recorte interessante? Não deixe de compartilhar aqui também e contribuir com essa biblioteca de consultas. 
 
