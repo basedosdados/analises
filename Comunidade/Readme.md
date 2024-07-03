@@ -17,3 +17,15 @@ Veja abaixo como começar a contribuir 👇
 6. Adicione uma breve descrição do seu código ou análise no campo "Add a description"
 7. Clique em "Create Pull Request"
 8. Pronto! Sua análise e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicado 💚
+
+
+## [Consultas](/Consultas) 👩🏻‍💻
+
+Confira uma lista de consultas SQL com dados da BD
+
+| Pergunta | Consulta | 
+| ------- | ------ |
+| Pergunta: Tivemos mais contratos contratos pré ou pós-pagos de telefonia móvel no Brasil em 2023? | [consultas_sql/br_anatel_telefonia_movel.microdados.sql](/consultas_sql/consultas_sql/br_anatel_telefonia_movel.microdados.sql)|
+
+
+
