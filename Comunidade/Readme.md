@@ -17,3 +17,6 @@ Veja abaixo como começar a contribuir 👇
 6. Adicione uma breve descrição do seu código ou análise no campo "Add a description"
 7. Clique em "Create Pull Request"
 8. Pronto! Sua análise e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicado 💚
+
+
+
