@@ -42,6 +42,5 @@ Aqui você consultas SQL em nosso datalake público
 | Quantos focos de queimadas houveram em seu municipio teve ao longo do tempo?   | [br_inpe_queimadas.microdados_20231113.sql](/consultas_sql/br_inpe_queimadas.microdados_20231113.sql) |
 | Quantos MWh seu estado consumiu de energia de 2004 a 2021?   | [br_mme_consumo_energia_eletrica_uf_20230801.sql](/consultas_sql/br_mme_consumo_energia_eletrica_uf_20230801.sql) |
 
-=======
-8. Pronto! Sua consulta e código serão revisados pela nossa equipe e, se estiver tudo de acordo com os padrões da BD, será publicada 💚
+
 
