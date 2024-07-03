@@ -1,3 +1,5 @@
+#Quantas UBSs existem em seu município? 
+
 SELECT a.id_municipio, nome, COUNT(DISTINCT(id_cnes)) as quantidade_ubs
 FROM basedosdados.br_ms_cnes.estabelecimento a 
 INNER JOIN basedosdados.br_bd_diretorios_brasil.municipio b
